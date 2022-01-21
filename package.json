@@ -1,0 +1,21 @@
+{
+  "name": "debug_u_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^5.0.2",
+    "express": "^4.17.1",
+    "node-fetch": "^3.1.1",
+    "node-telegram-operation-manager": "^1.2.0",
+    "nodemon": "^2.0.4",
+    "telegraf": "^3.38.0"
+  },
+  "type": "module"
+}
